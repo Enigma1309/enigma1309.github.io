@@ -1,9 +1,9 @@
 # website
 My website
-<a href="http://enigma1309.github.io/website/"> Link </a>
+<a href="http://enigma1309.github.io"> Link </a>
 
 
 
 
-Aternative Link :- enigma1309.github.io/website/
+Aternative Link :- enigma1309.github.io
 
